@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* App.css */
+body {
+  background-image: url('/public/bg-new.png'); /* gambar background */
+  background-size: cover; /* agar full */
+}
