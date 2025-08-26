@@ -3,5 +3,5 @@
 /* App.css */
 body {
   background-image: url('/public/bg-new.png'); /* gambar background */
-  background-size: cover; /* agar full */
+  background-size: 100%; /* agar full */
 }
